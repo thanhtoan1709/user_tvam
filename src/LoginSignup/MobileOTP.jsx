@@ -12,9 +12,9 @@ const MobileOTP = () => {
                 <h2>We sent OTP code to</h2>
                 <h2>verify your number</h2>
             </div>
-            <div className='number-field'>                
+            <div className=''>                
                 <div className='input'>
-                    <input type="tel" className='input-text'/>
+                    <input type="tel" className='input-number'/>
                 </div>
             </div>            
             <div className='Login-Button'>Verify</div>
